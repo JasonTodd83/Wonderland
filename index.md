@@ -2,8 +2,9 @@
 layout: default
 ---
 # MY LIBRARY
-[秋](./another-page.html).
-[爱与黑暗的故事](./docs/A Tale of Love and Darkness.md).
+[秋](./another-page.html)
+
+[爱与黑暗的故事](./docs/A Tale of Love and Darkness.md)
 
 ## 鱼没有脚
 
