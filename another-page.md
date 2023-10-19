@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 帆与锚
-description: 我想让自己染上一点疯癫，只一点点，以此来保护自己。
+title: 秋
+description: 枪生锈了。
 ---
 
 ## The Memory
