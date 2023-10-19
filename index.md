@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Recollections
 ---
 # MY LIBRARY
 [秋](./another-page.html)
