@@ -34,5 +34,5 @@ layout: default
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![La solitudine dei numeri primi](s34038024.jpg)
 
