@@ -22,9 +22,6 @@ title: Recollections
 
 * * *
 
-### La solitudine dei numeri primi
-
-![La solitudine dei numeri primi](s34038024.jpg)
 
 [own](./docs/write something.md)
 
